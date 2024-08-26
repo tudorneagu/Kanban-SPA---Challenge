@@ -1,0 +1,8 @@
+"formatter": {
+    "enabled": true,
+    "indentStyle": "space"
+  },
+  {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "biomejs.biome"
+  }
